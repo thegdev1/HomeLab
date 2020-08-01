@@ -7,5 +7,7 @@ Home lab for building practice environments
 - Docker
 - Docker Swarm
 - Kubernetes
+- Ansible
+- Terraform
 - AWS
 - Python
